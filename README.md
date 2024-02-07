@@ -7,3 +7,6 @@
 On Cloud
 
 - Pull
+
+Delete Development
+- Instructions
