@@ -10,3 +10,5 @@ On Cloud
 
 Delete Development
 - Instructions
+- DONE
+- I finished developing the feature
