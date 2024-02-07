@@ -8,7 +8,5 @@ On Cloud
 
 - Pull
 
-Delete Development
-- Instructions
-- DONE
-- I finished developing the feature
+WORKING ON START FEATURES
+- What are the instructions?
